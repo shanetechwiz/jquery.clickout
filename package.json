@@ -1,0 +1,24 @@
+{
+  "name": "jquery.clickout",
+  "version": "0.0.1",
+  "description": "A simple custom jQuery element click:out event. An event triggered when clicking outside of the targeted element.",
+  "homepage": "https://github.com/changalberto/jquery.clickout#readme",
+  "main": "jquery.clickout.js",
+  "author": "Alberto Chang",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/changalberto/jquery.clickout.git"
+  },
+  "keywords": [
+    "jquery.clickout",
+    "jquery",
+    "clickout"
+  ],
+  "bugs": {
+    "url": "https://github.com/changalberto/jquery.clickout/issues"
+  }
+}
